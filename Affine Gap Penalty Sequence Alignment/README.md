@@ -9,5 +9,5 @@ Results from the alignment of genomes within the file finalcompare.fasta have be
 and GenomeAndSecondGene.fasta file. 
 
 ## Usage
-* the program reads in all sequences within a fasta file and generates a menu to choose seqences for alignment
+* the program project_2_final.py reads in all sequences within a fasta file and generates a menu to choose seqences for alignment
 * after alignment the user is prompted to enter a name for the fasta file in which the alingment data will be written.

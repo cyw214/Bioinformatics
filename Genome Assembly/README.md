@@ -1,4 +1,4 @@
-How it Works:
+## Genome Assembly
 	
   The	Assembly	Algorithm	implemented	in	Proj_1.py	makes	use	of	a	Euclidean	graph,	
 described	by	a	nested	hash	table,	to	assemble	30	base	reads.	Upon	startup,	reads	are	split	into	
